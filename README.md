@@ -89,5 +89,3 @@ Average Height by Position: Calculated the average height of players by position
 This analysis provides actionable insights into team composition, player attributes, and performance-related metrics, empowering stakeholders to make informed decisions regarding recruitment, training, and performance optimization.
 
 **Technology used:** SQL server
-
-Dashboard Overview:
