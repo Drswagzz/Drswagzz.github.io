@@ -24,7 +24,15 @@ Country: Focus on specific category to analyze yaerly performance.
 
 Product: Drill down into the performance of fast moving and slow moving products.
 
-**Key findings:**
+**Key findings:** Key findings: Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
+
+Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+
+Top-Performing Products: Highlighted which cookie products are driving the most revenue and profit, aiding in inventory and marketing decisions.
+
+Sales Volatility: Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+
+This dashboard serves as a crucial tool for the cookies company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:**
 
