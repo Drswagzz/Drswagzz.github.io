@@ -16,7 +16,7 @@ Yearly: Filter the data to view performance for a specific year or range of year
 Country: Focus on specific category to analyze yaerly performance.
 Product: Drill down into the performance of fast moving and slow moving products.
 
-**Key findings:**Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
+**Key findings:** Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
 Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
 Top-Performing Products: Highlighted which cookie products are driving the most revenue and profit, aiding in inventory and marketing decisions.
 Sales Volatility: Analyzed yearly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
@@ -29,14 +29,12 @@ This dashboard serves as a crucial tool for the store’s management team, provi
 
 # Project 3
 
-**Title:**Player Database: Structured Analysis Queries for Football Team, Player Attributes and Performance Insights using SQL Data and Manipulation and interogation
+**Title:** Player Database: Structured Analysis Queries for Football Team, Player Attributes and Performance Insights using SQL Data and Manipulation and interogation
 
-**SQL Code::**[Football Data SQL Code](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/football_data.sql)
+**SQL Code::** [Football Data SQL Code](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/football_data.sql)
 
 **SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific fields such as player name, position, height, and age from the "Football Players Data" table to gather detailed information.
-
 Data Filtering (WHERE): Applied multiple filtering criteria to narrow down the dataset, including:
-
 Filtering by team (e.g., players in the "Arizona" team).
 Filtering by position (e.g., Wide Receivers).
 Filtering by height (e.g., taller than 6 feet 2 inches).
@@ -92,10 +90,35 @@ This analysis provides actionable insights into team composition, player attribu
 
 # Project 4
 
-**Title:**Comprehensive SQL Queries for Football Player Data Analysis:  Physical Attributes  on Heights, Weights, Rankings, and Team Insights  
+**Title:** Comprehensive SQL Queries for Football Player Data Analysis:  Physical Attributes  on Heights, Weights, Rankings, and Team Insights  
+
 **SQL Code:** [Europeans Players Data SQL Code](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/European_players.sql)
-SQL Skills Used:
-Project Description:
+
+**SQL Skills Used:** Data Retrieval (SELECT): Queried player details like name, position, height, and age to extract specific insights.
+Data Filtering (WHERE): Applied conditions to refine results, including filtering by team, position, height, age, and weight.
+Data Aggregation (AVG, MAX, MIN, COUNT): Calculated metrics like average height and maximum weight by position or team.
+Sorting and Ranking (ORDER BY, RANK, ROW_NUMBER): Ranked players by age and weight within their teams and sorted data for analysis.
+Conditional Retrieval (LIKE, IN): Identified patterns (e.g., missing data) and grouped players with shared attributes (e.g., last names).
+Data Deletion (DELETE): Removed incomplete rows to maintain data quality.
+Grouping and Partitioning (GROUP BY, PARTITION BY): Summarized data, like tallest players by college or positional averages, while preserving row-level details.
+Nested Queries: Compared individual metrics against group averages or thresholds.
+Data Source Specification (FROM): Defined source tables for structured data analysis.
+These SQL techniques were used to analyze player data for trends, comparisons, and rankings.
+
+**Project Description:** This project focuses on analyzing football player data to extract meaningful insights and trends using advanced SQL techniques. The dataset comprises detailed information on players, including their physical attributes, performance metrics, and affiliations. The objective is to answer various queries related to player characteristics, team dynamics, and positional statistics.
+
+Key Objectives:
+Player Characteristics: Analyze and compare player attributes like height, weight, and age across different teams and positions.
+Positional Insights: Calculate averages, such as height and weight, for players in specific positions to identify standout performers.
+Team Dynamics: Evaluate player distributions based on experience and performance, identifying trends within teams.
+Height and Weight Analysis:
+Identify the tallest and shortest players by college and position.
+Find players exceeding average height or weight metrics for their team or position.
+Ranking and Filtering: Rank players by age and weight within their teams and filter data based on conditions like age, height, and college attended.
+Data Quality and Maintenance: Ensure data integrity by removing incomplete records and identifying missing values.
+Outcome:
+The project delivers a robust analysis of football player data, providing actionable insights for teams, coaches, and analysts. By leveraging SQL's advanced capabilities, the analysis uncovers patterns and trends critical for decision-making in player recruitment, training, and performance evaluation.
+
  
 Technology used: SQL server
  
