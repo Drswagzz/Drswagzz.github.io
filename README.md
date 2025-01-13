@@ -89,3 +89,14 @@ Average Height by Position: Calculated the average height of players by position
 This analysis provides actionable insights into team composition, player attributes, and performance-related metrics, empowering stakeholders to make informed decisions regarding recruitment, training, and performance optimization.
 
 **Technology used:** SQL server
+
+# Project 4
+
+**Title:**Comprehensive SQL Queries for Football Player Data Analysis:  Physical Attributes  on Heights, Weights, Rankings, and Team Insights  
+**SQL Code:** [Europeans Players Data SQL Code](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/European_players.sql)
+SQL Skills Used:
+Project Description:
+ 
+Technology used: SQL server
+ 
+
