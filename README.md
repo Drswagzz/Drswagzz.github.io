@@ -118,7 +118,8 @@ Ranking and Filtering: Rank players by age and weight within their teams and fil
 Data Quality and Maintenance: Ensure data integrity by removing incomplete records and identifying missing values.
 Outcome:
 The project delivers a robust analysis of football player data, providing actionable insights for teams, coaches, and analysts. By leveraging SQL's advanced capabilities, the analysis uncovers patterns and trends critical for decision-making in player recruitment, training, and performance evaluation.
-
+Outcome:
+This project delivers actionable insights into player demographics, performance, and trends, enabling better team management, recruitment strategies, and data-driven decision-making. The queries provide a detailed understanding of player attributes by team, position, and college while addressing specific analytical questions.
  
 Technology used: SQL server
  
