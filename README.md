@@ -27,6 +27,41 @@ This dashboard serves as a crucial tool for the store’s management team, provi
 
 ![DERVIDS](DERVIDS.png)
 
+# Project 2
+
+**Title:** [2025 HR Insights: Attrition, Satisfaction, and Demographics](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/POWER%20BI%20DASH%20B.png)
+
+**Tools Used:** POWER BI - DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, S licers, and Filters
+
+**Project Description:** Project Description: This project involved analyzing HR data to identify trends and patterns in employee attrition, satisfaction, and demographics from 2024 - 2025. It is designed to provide a comprehensive overview of key HR metrics. This dashboard allows stakeholders to easily monitor and analyze the organization's HR performance across different departments, employee roles, and demographic segments. The dashboard includes the following features:
+Overall Employees: Displays the total number of employees, providing a snapshot of the workforce size.
+Attribution: Shows the total number of employees who have left the company, offering insights into turnover.
+Attribution Rate: Percentage of employees who have left, calculated to understand the rate of attrition.
+Active Employees: Number of employees currently active, indicating the current workforce strength.
+Attribution Count by Department: Visual representation of attrition broken down by each department with a pie chart, highlighting which areas are experiencing higher turnover.
+Number of Employees by Age Group: A bar chart showing the distribution of employees by age group and gender, providing demographic insights.
+Job Satisfaction Ratings: A table format that breaks down satisfaction ratings by job role, with color coding for easy interpretation.
+Attribution by Education Field: A horizontal bar chart illustrating attrition rates by different educational backgrounds.
+Gender Attribution Rate by Age Range: Donut charts for each age range showing the attrition rate by gender, allowing for detailed demographic analysis.
+Additionally, the dashboard includes interactive slicers and filters for:
+Education Level: Filter the data to view performance by different education levels such as Associates Degree, Bachelor’s Degree, Doctoral Degree, High School, and Master’s Degree.
+Age Group: Focus on specific age groups to analyze HR metrics like attrition rates.
+Job Role: Drill down into the performance of different job roles to understand satisfaction and turnover trends.
+
+This setup ensures that HR managers and executives can make informed decisions based on real-time data visualization and analysis.
+
+**Key findings:** Employee Retention Insights: Identified departments with high attrition rates, particularly R&D at 56.12%, suggesting areas where retention strategies need enhancement.
+Demographic Trends: Revealed that the 25-34 age group has the highest number of employees, with a significant difference in gender distribution, which could inform diversity and inclusion initiatives.
+Job Satisfaction Analysis: Highlighted that Research Scientists have the highest overall job satisfaction with a total score of 292, indicating which roles are most fulfilling and potentially aiding in talent management.
+Education Field Impact: Analyzed that employees from the Life Sciences field have the highest attrition rate at 89, suggesting a need for specific support or career development programs for this group.
+Age and Gender Attrition: Discovered that the 25-34 age group also has the highest attrition rate among females at 61.61%, which could prompt targeted retention programs for this demographic.
+
+This dashboard serves as a crucial tool for the HR management team, providing clear, actionable insights that drive informed decision-making and strategic planning regarding employee management, retention, and satisfaction.
+
+**Dashboard Overview:**
+
+![HR REPORT](POWER_B_D.png)
+
 # Project 3
 
 **Title:** Player Database: Structured Analysis Queries for Football Team, Player Attributes and Performance Insights using SQL Data and Manipulation and interogation
