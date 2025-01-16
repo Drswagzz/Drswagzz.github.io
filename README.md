@@ -1,34 +1,5 @@
 # Project 1
 
-**Title:** [DERVID STORE DASHBOARD](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/DERVID%20STORE.xlsx)
-
-**Tools Used:** Microsoft Excel - Get pivot chart, pivot table, slicers. 
-
-**Project Description:** Project Description: This project involved analysing product data of a multipurpose store to identify trends and patterns in sales performance from 2017 -  2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
-Sales by product categories: Visual representation of sales are broken down by each category and type of product with a visible primary vertical axis.
-Total Units Sold per yearly: A yearly breakdown of the total units sold, providing insights into sales trends over time.
-Average ratings by year: Displays the Average ratings, allowing for easy comparison of sales and profitability throughout the year using line chart and percentage.
-Annual sales difference by year: Highlights the total sales generated in each year, showcasing the performance in different year.
-Average Annual rating difference: visual representation of the sales difference, showcasing the uptrnd and downtrend difference by category of product
-
-Additionally, the dashboard includes interactive slicers and timeline for:
-Yearly: Filter the data to view performance for a specific year or range of year.
-Country: Focus on specific category to analyze yaerly performance.
-Product: Drill down into the performance of fast moving and slow moving products.
-
-**Key findings:** Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
-Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
-Top-Performing Products: Highlighted which cookie products are driving the most revenue and profit, aiding in inventory and marketing decisions.
-Sales Volatility: Analyzed yearly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
-
-This dashboard serves as a crucial tool for the store’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
-
-**Dashboard Overview:**
-
-![DERVIDS](DERVIDS.png)
-
-# Project 2
-
 **Title:** [2025 HR Insights: Attrition, Satisfaction, and Demographics](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/POWER%20BI%20DASH%20B.png)
 
 **Tools Used:** POWER BI - DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, S licers, and Filters
@@ -61,6 +32,35 @@ This dashboard serves as a crucial tool for the HR management team, providing cl
 **Dashboard Overview:**
 
 ![HR REPORT](POWER_B_D.png)
+
+# Project 2
+
+**Title:** [DERVID STORE DASHBOARD](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/DERVID%20STORE.xlsx)
+
+**Tools Used:** Microsoft Excel - Get pivot chart, pivot table, slicers. 
+
+**Project Description:** Project Description: This project involved analysing product data of a multipurpose store to identify trends and patterns in sales performance from 2017 -  2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
+Sales by product categories: Visual representation of sales are broken down by each category and type of product with a visible primary vertical axis.
+Total Units Sold per yearly: A yearly breakdown of the total units sold, providing insights into sales trends over time.
+Average ratings by year: Displays the Average ratings, allowing for easy comparison of sales and profitability throughout the year using line chart and percentage.
+Annual sales difference by year: Highlights the total sales generated in each year, showcasing the performance in different year.
+Average Annual rating difference: visual representation of the sales difference, showcasing the uptrnd and downtrend difference by category of product
+
+Additionally, the dashboard includes interactive slicers and timeline for:
+Yearly: Filter the data to view performance for a specific year or range of year.
+Country: Focus on specific category to analyze yaerly performance.
+Product: Drill down into the performance of fast moving and slow moving products.
+
+**Key findings:** Regional Profitability: Identified the most profitable countries and highlighted regions where performance could be improved.
+Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+Top-Performing Products: Highlighted which cookie products are driving the most revenue and profit, aiding in inventory and marketing decisions.
+Sales Volatility: Analyzed yearly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+
+This dashboard serves as a crucial tool for the store’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+
+**Dashboard Overview:**
+
+![DERVIDS](DERVIDS.png)
 
 # Project 3
 
