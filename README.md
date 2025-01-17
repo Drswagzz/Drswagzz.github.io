@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:** [2025 HR Insights: Attrition, Satisfaction, and Demographics](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/POWER%20BI%20DASH%20B.png)
+**Title:** [2025 HR Insights: Attrition, Satisfaction, and Demographics](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/Annual_HR_Data.xlsx)
 
 **Tools Used:** POWER BI - DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, S licers, and Filters
 
