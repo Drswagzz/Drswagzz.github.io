@@ -2,7 +2,7 @@
 
 **Title:** [2025 HR Insights: Attrition, Satisfaction, and Demographics](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/Annual_HR_Data.xlsx)
 
-**Tools Used:** POWER BI - DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, S licers, and Filters
+**Tools Used:** POWER BI - DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, Slicers, and Filters
 
 **Project Description:** Project Description: This project involved analyzing HR data to identify trends and patterns in employee attrition, satisfaction, and demographics from 2024 - 2025. It is designed to provide a comprehensive overview of key HR metrics. This dashboard allows stakeholders to easily monitor and analyze the organization's HR performance across different departments, employee roles, and demographic segments. The dashboard includes the following features:
 Overall Employees: Displays the total number of employees, providing a snapshot of the workforce size.
