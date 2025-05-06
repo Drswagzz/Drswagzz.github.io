@@ -11,7 +11,7 @@
 
 **Dashboard Overview:**
 
-![Q1 Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainsbfile.png)
+![Q1 Sainsbury's Outlets Report](sainsbfile.png)
 
 
 # Project 2
@@ -51,7 +51,7 @@ This dashboard serves as a crucial tool for the HR management team, providing cl
 
 # Project 3
 
-**Title:** [DERVID STORE DASHBOARD](sainsbfile.png)
+**Title:** [DERVID STORE DASHBOARD](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/DERVID%20STORE.xlsx)
 
 **Tools Used:** Microsoft Excel - Get pivot chart, pivot table, slicers. 
 
