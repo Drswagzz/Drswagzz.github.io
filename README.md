@@ -8,7 +8,7 @@
 
 
 Key findings:
-**Dashboard Overview:**[Q1 Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainsbfile.png)
+**Dashboard Overview:**![Q1 Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainsbfile.png)
 
 
 # Project 2
