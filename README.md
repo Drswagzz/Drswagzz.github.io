@@ -1,10 +1,23 @@
 # Project 1
 
+**Title:** [Q1 Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainb%20Grocery%20Data.xlsx)
+
+**Tools Used:** POWER BI - Card, Line Chart DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, Slicers, and Filters
+
+**Project Description:** The dashboard focuses on sales and inventory metrics, such as total sales ($1.20M), average sales ($141), number of rows (8523), and average ratings (3.9). It includes visualizations like pie charts for fat content and outlet type, bar charts for item types, and a line graph for sales trends over time, with filters for outlet location type, outlet size, and item type
+
+
+Key findings:
+Dashboard Overview:
+
+
+# Project 2
+
 **Title:** [2025 HR Insights: Attrition, Satisfaction, and Demographics](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/Annual_HR_Data.xlsx)
 
 **Tools Used:** POWER BI - DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, Slicers, and Filters
 
-**Project Description:** Project Description: This project involved analyzing HR data to identify trends and patterns in employee attrition, satisfaction, and demographics from 2024 - 2025. It is designed to provide a comprehensive overview of key HR metrics. This dashboard allows stakeholders to easily monitor and analyze the organization's HR performance across different departments, employee roles, and demographic segments. The dashboard includes the following features:
+**Project Description:**  This project involved analyzing HR data to identify trends and patterns in employee attrition, satisfaction, and demographics from 2024 - 2025. It is designed to provide a comprehensive overview of key HR metrics. This dashboard allows stakeholders to easily monitor and analyze the organization's HR performance across different departments, employee roles, and demographic segments. The dashboard includes the following features:
 Overall Employees: Displays the total number of employees, providing a snapshot of the workforce size.
 Attribution: Shows the total number of employees who have left the company, offering insights into turnover.
 Attribution Rate: Percentage of employees who have left, calculated to understand the rate of attrition.
@@ -33,7 +46,7 @@ This dashboard serves as a crucial tool for the HR management team, providing cl
 
 ![HR REPORT](POWER_B_D.png)
 
-# Project 2
+# Project 3
 
 **Title:** [DERVID STORE DASHBOARD](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/DERVID%20STORE.xlsx)
 
@@ -62,7 +75,7 @@ This dashboard serves as a crucial tool for the store’s management team, provi
 
 ![DERVIDS](DERVIDS.png)
 
-# Project 3
+# Project 4
 
 **Title:** Player Database: Structured Analysis Queries for Football Team, Player Attributes and Performance Insights using SQL Data and Manipulation and interogation
 
@@ -123,7 +136,7 @@ This analysis provides actionable insights into team composition, player attribu
 
 **Technology used:** SQL server
 
-# Project 4
+# Project 5
 
 **Title:** Comprehensive SQL Queries for Football Player Data Analysis:  Physical Attributes  on Heights, Weights, Rankings, and Team Insights  
 
