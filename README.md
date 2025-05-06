@@ -51,7 +51,7 @@ This dashboard serves as a crucial tool for the HR management team, providing cl
 
 # Project 3
 
-**Title:** [DERVID STORE DASHBOARD](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/DERVID%20STORE.xlsx)
+**Title:** [DERVID STORE DASHBOARD](sainsbfile.png)
 
 **Tools Used:** Microsoft Excel - Get pivot chart, pivot table, slicers. 
 
