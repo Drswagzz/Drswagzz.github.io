@@ -2,12 +2,13 @@
 
 **Title:** [Q1 Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainb%20Grocery%20Data.xlsx)
 
-**Tools Used:** POWER BI - Card, Line Chart DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, Slicers, and Filters
+**Tools Used:** POWER BI - Card, Line Chart, DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, Slicers, and Filters
 
 **Project Description:** The dashboard focuses on sales and inventory metrics, such as total sales ($1.20M), average sales ($141), number of rows (8523), and average ratings (3.9). It includes visualizations like pie charts for fat content and outlet type, bar charts for item types, and a line graph for sales trends over time, with filters for outlet location type, outlet size, and item type
 
 
-Key findings:
+**Key findings:**
+
 **Dashboard Overview:**![Q1 Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainsbfile.png)
 
 
