@@ -1,13 +1,47 @@
 # Project 1
 
-**Title:** [Q1 Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainb%20Grocery%20Data.xlsx)
+**Title:** [Sainsbury's Outlets Report](https://github.com/Drswagzz/Drswagzz.github.io/blob/main/sainb%20Grocery%20Data.xlsx)
 
 **Tools Used:** POWER BI - Card, Line Chart, DAX, Horizontal Bar Chart, Donut Charts, Table, Bar Chart, Pie Chart, Text Boxes, Slicers, and Filters
 
-**Project Description:** The dashboard focuses on sales and inventory metrics, such as total sales ($1.20M), average sales ($141), number of rows (8523), and average ratings (3.9). It includes visualizations like pie charts for fat content and outlet type, bar charts for item types, and a line graph for sales trends over time, with filters for outlet location type, outlet size, and item type
+**Project Description:** This interactive dashboard was built to analyse Sainsbury’s retail sales across outlets and product categories from 2010 through 2022. By consolidating transaction-level data into high-level KPIs, trend charts, and breakdowns by outlet characteristics and product attributes, stakeholders can quickly assess historical performance and pinpoint opportunities for growth.The dashboard includes the following features:
+Total Sales (Card)
+Displays cumulative sales of $1.20 M, offering an at-a-glance measure of revenue over the period.
+Average Sales per Transaction (Card)
+Summarizes the mean transaction value of $141, helping to gauge basket size trends.
+Record Count (Card)
+Shows 8,523 data rows (transactions or SKU-outlet combinations), indicating the dataset’s coverage.
+Average Customer Rating (Card)
+Reports an overall satisfaction score of 3.9 out of 5.
+Outlet Establishment Trend (Line + Area Chart)
+Charts yearly aggregate sales from $78 K in 2010 up to peaks of $205 K around 2018, before stabilizing near $131 K in 2022—highlighting periods of rapid growth and plateau.
+Sales by Fat Content (Donut Chart)
+Breaks down total sales by “Low Fat” ($776.3 K) vs. “Regular” ($425.3 K) items to surface health-oriented purchasing trends.
+Fat Content by Outlet Tier (Clustered Bar Chart)
+Compares low-fat vs. regular sales across Tier 1–3 outlets, revealing that Tier 3 outlets sell the highest dollar volume of both categories.
+Top-Selling Item Types (Horizontal Bar Chart)
+Ranks product categories by total sales:
+Fruits & Vegetables (~$180 K)
+Snack Foods (~$180 K)
+Household ($140 K)
+…down to Seafood ($10 K), enabling inventory and promotion planning.
+Sales by Outlet Size (Donut Chart)
+Visualizes contributions from Small ($444.8 K), Medium ($507.9 K), and Large outlets ($249.0 K), identifying where scale drives revenue.
+Sales by Outlet Location Tier (Stacked Bar Chart)
+Shows total sales in Tier 3 ($472.1 K), Tier 2 ($393.2 K), and Tier 1 ($336.4 K), spotlighting geographic performance differences.
+Outlet Type Performance (Table with Conditional Formatting)
+Compares Grocery Stores and three Supermarket types on:
+Total Sales (e.g. Supermarket Type 1: $787.6 K)
+Number of Items
+Avg. Sales per Item
+Avg. Ratings (all ~4)
+Item Visibility metric
 
-
-**Key findings:**
+**Key findings:** By surfacing historical sales trajectories, outlet-level performance, and product-category insights in one unified view, this dashboard:
+Helps identify underperforming outlets or product lines for targeted promotions
+Guides assortment optimization based on fat-content preferences and item-type demand
+Supports expansion planning by highlighting high-growth location tiers and outlet sizes
+Enables data-driven decisions around pricing, inventory, and marketing spend.
 
 **Dashboard Overview:**
 
